@@ -70,7 +70,7 @@ The **Tesla Bilbasen Market Intelligence Dashboard** transforms raw scraped list
                                ▼
 ┌─────────────────────────────────────────────────────────────┐
 │                      DATA CLEANING                          │
-│   Price  •  Mileage  •  Year  •  WLTP  •  Color  • Location  │
+│   Price  •  Mileage  •  Year  •  WLTP  •  Color  • Location │
 └──────────────────────────────┬──────────────────────────────┘
                                │
                                ▼
